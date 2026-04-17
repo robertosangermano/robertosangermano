@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Roberto
 
-<!--
-**robertosangermano/robertosangermano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Security Researcher
 
-Here are some ideas to get you started:
+I focus on:
+- Vulnerability analysis
+- Secure coding practices
+- Defensive security tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects
+
+- 🔬 Web Vulnerability Learning Lab  
+  Secure coding lab with SQLi, IDOR and password reset patterns  
+
+- 🛠️ Defensive Vulnerability Scanner  
+  Lightweight scanner with scope enforcement and HTTP security checks  
+
+## 🧠 Areas of Interest
+
+- Web Application Security  
+- Mobile Security  
+- Network & Bluetooth Security  
+
+## ⚙️ Tech Stack
+
+- Python  
+- Flask  
+- Docker  
+- Linux / Kali  
+
+## 🎯 Goal
+
+Improve system security through research, testing and defensive development.
